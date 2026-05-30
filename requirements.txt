@@ -1,0 +1,5 @@
+streamlit==1.45.1
+sympy==1.13.3
+matplotlib==3.10.3
+numpy==2.2.6
+python-dotenv==1.1.0
